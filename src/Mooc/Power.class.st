@@ -19,7 +19,7 @@ Power >> name [
 
 { #category : #accessing }
 Power >> name: aString [
-	name := aString 
+	name := aString
 ]
 
 { #category : #printing }
